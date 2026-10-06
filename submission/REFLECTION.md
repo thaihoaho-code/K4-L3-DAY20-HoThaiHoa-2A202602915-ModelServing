@@ -8,7 +8,7 @@
 
 **Họ Tên:** Hồ Thái Hòa
 **MSSV:** 2A202602915
-**Cohort:** _<A20-K4>_
+**Cohort:** A20-K4
 **Ngày submit:** 2026-10-06
 
 ---
